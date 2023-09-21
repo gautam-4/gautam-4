@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gautam-4
+- 👀 I’m starting on my coding journey
+- 🌱 I’m currently in 2nd year of engineering at Vellore Insitute of Technology, India
